@@ -1,0 +1,21 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application that helps you take and keep notes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express.js",
+    "node.js",
+    "html",
+    "css"
+  ],
+  "author": "Dylan Wednieski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
